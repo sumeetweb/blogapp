@@ -3,13 +3,17 @@ A CRUD Blog app created using Django. You have to set your smtp details at the e
 
 Default Credentials :
 ---------------------
-Administrator :
+Administrator :  
+
 Username - admin  
 
 Password - admin
 
+  
+    
+    
+Blogger :  
 
-Blogger :
 Username - temp  
 
 Password - temp@test
